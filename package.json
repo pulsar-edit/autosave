@@ -16,9 +16,6 @@
       }
     }
   },
-  "dependencies": {
-    "fs-plus": "^3.0.0"
-  },
   "devDependencies": {
     "standard": "^10.0.3"
   },
