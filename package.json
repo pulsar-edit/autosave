@@ -19,27 +19,6 @@
   "dependencies": {
     "fs-plus": "^3.0.0"
   },
-  "devDependencies": {
-    "standard": "^10.0.3"
-  },
-  "standard": {
-    "ignore": [
-      "spec/fixtures"
-    ],
-    "globals": [
-      "atom",
-      "describe",
-      "expect",
-      "beforeEach",
-      "jasmine",
-      "waitsForPromise",
-      "waitsFor",
-      "runs",
-      "spyOn",
-      "FocusEvent",
-      "it"
-    ]
-  },
   "configSchema": {
     "enabled": {
       "type": "boolean",
