@@ -1,3 +1,5 @@
+# This repo is now archived under Pulsar-Edit as it is Bundled into the core editor [#424](https://github.com/pulsar-edit/pulsar/pull/424)
+
 # Autosave package
 
 Autosaves editor when they lose focus, are destroyed, or when the window is closed.
