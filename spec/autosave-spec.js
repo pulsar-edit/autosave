@@ -1,4 +1,4 @@
-const fs = require('fs-plus')
+const fs = require('fs')
 const {it, fit, ffit, beforeEach} = require('./async-spec-helpers') // eslint-disable-line
 
 describe('Autosave', () => {

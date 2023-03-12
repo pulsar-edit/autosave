@@ -16,9 +16,6 @@
       }
     }
   },
-  "dependencies": {
-    "fs-plus": "^3.0.0"
-  },
   "configSchema": {
     "enabled": {
       "type": "boolean",
